@@ -26,5 +26,5 @@ A Finite Sample Complexity Bound for the Distributionally Robust Q-learning
 
 # Posters
 A Finite Sample Complexity Bound for the Distributionally Robust Q-learning
-* Poster: [AISTATS 23 DRQL]( http://Shengbo-Wang.github.io/files/slides/posters/AISTATS_2023_Poster.pdf)
+* Poster: [AISTATS 23 DRQL]( http://Shengbo-Wang.github.io/files/posters/AISTATS_2023_Poster.pdf)
 * Presented at AISTATS 2023
