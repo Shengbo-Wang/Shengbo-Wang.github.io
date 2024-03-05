@@ -10,7 +10,7 @@ redirect_from:
 I am currently a fourth-year Ph.D. candidate in Operations Research within the Department of [Management Science and Engineering (MS&E)](https://msande.stanford.edu/) at Stanford University. I am fortunate to be co-advised by Prof. [Peter Glynn](https://web.stanford.edu/~glynn/) and Prof. [Jose Blanchet](https://web.stanford.edu/~jblanche/). Prior to my doctoral studies at Stanford, I completed my B.S. degree at Cornell Engineering, where I majored in [Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/orie). 
 
 # Research Interests
-I am broadly interested in research areas centered around applied probability, stochastic modeling, and simulation. My work focuses on designing and analyzing algorithms dedicated to the learning and control of dynamic engineering systems. Key areas of my research include:
+I am interested in a wide range of research areas within applied probability, stochastic modeling, and simulation. My work focuses on the design and analysis of algorithms tailored for the learning and control of dynamic engineering systems, with applications in the disciplines of management science and operations research. Key areas of my research include:
 * Designing and implementing sample-efficient estimators capable of learning key system characteristics. 
 * Establishing optimal sample complexities for the learning and control of mixing Markov systems.
 * Conceptualizing and implementing modeling frameworks that ensure the reliable control of dynamic engineering systems, leveraging distributionally robust optimization. 
