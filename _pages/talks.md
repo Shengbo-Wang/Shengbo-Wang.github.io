@@ -4,13 +4,14 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
->Upcoming talk:
->* **On the Foundation of Distributionally Robust Reinforcement Learning**
->   - Conference on Information Sciences and Systems (CISS) 2024.
->   - 14/Mar/2024
+
 
 
 # Talks 
+* **On the Foundation of Distributionally Robust Reinforcement Learning**
+    - Slides: [CISS 2024](http://Shengbo-Wang.github.io/files/slides/CISS_2024_Foundation_DRRL.pdf)
+    - Conference on Information Sciences and Systems (CISS) 2024.
+
 * **Reinforcement Learning for Mixing Systems**
     - Slides: [INFORMS 2023](http://Shengbo-Wang.github.io/files/slides/INFORMS2023__Mixing_MDP.pdf)
     - Presented at INFORMS 2023. 
