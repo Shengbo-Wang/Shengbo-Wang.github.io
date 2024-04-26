@@ -7,7 +7,11 @@ author_profile: true
 
 
 
-# Talks 
+# Talks
+* **On the Foundation of Distributionally Robust Reinforcement Learning (Long version)**
+    - Slides: [Stanford and Berkeley talks](http://Shengbo-Wang.github.io/files/slides/Formulation_Stanford_Berkeley.pdf)
+    - Presented at Stanford and Berkeley seminars 4/2024.
+
 * **On the Foundation of Distributionally Robust Reinforcement Learning**
     - Slides: [CISS 2024](http://Shengbo-Wang.github.io/files/slides/CISS_2024_Foundation_DRRL.pdf)
     - Conference on Information Sciences and Systems (CISS) 2024.
