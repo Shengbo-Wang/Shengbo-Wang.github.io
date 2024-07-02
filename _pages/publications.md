@@ -11,27 +11,31 @@ author_profile: true
 
 
 # Conference Papers
-* [**A Finite Sample Complexity Bound for Distributionally Robust Q-learning**](https://arxiv.org/abs/2302.13203)
-  - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou.
-  - Artificial Intelligence and Statistics Conference (AISTATS) 2023.
-
 * [**Optimal Sample Complexity for Average Reward Markov Decision Processes**](https://arxiv.org/abs/2310.08833)
   - Shengbo Wang, Jose Blanchet, Peter Glynn.
   - International Conference on Learning Representations (ICLR) 2024.
 
-# Preprints 
-* [**Sample Complexity of Variance-reduced Distributionally Robust Q-learning**](https://arxiv.org/abs/2305.18420)
+* [**A Finite Sample Complexity Bound for Distributionally Robust Q-learning**](https://arxiv.org/abs/2302.13203)
+  - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou.
+  - Artificial Intelligence and Statistics Conference (AISTATS) 2023.
+
+
+# Preprints
+* [**Statistical Learning of Distributionally Robust Stochastic Control in Continuous State Spaces**](https://arxiv.org/abs/2406.11281) 
+  - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
+
+* [**On the Foundation of Distributionally Robust Reinforcement Learning**](https://arxiv.org/abs/2311.09018) 
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
   - Under revision.
 
 * [**Optimal Sample Complexity of Reinforcement Learning for Mixing Discounted Markov Decision Processes**](https://arxiv.org/abs/2302.07477)
   - Shengbo Wang, Jose Blanchet, Peter Glynn.
 
-* [**On the Foundation of Distributionally Robust Reinforcement Learning**](https://arxiv.org/abs/2311.09018) 
+* [**Sample Complexity of Variance-reduced Distributionally Robust Q-learning**](https://arxiv.org/abs/2305.18420)
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
-  - Submitted
+  - Under revision.
 
-* **Derivative Estimation for Expectations of Additive Functionals of Jump Diffusions**
+* **An Efficient High-dimensional Gradient Estimator for Stochastic Differential Equations**
   - Shengbo Wang, Jose Blanchet, Peter Glynn. 
   - Working Paper. 
 

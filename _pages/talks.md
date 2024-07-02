@@ -31,6 +31,10 @@ author_profile: true
     - Presented at INFORMS 2022.
 
 # Posters
+* **Optimal Sample Complexity for Average Reward Markov Decision Processes**
+    - Poster: [AISTATS 23 DRQL]( http://Shengbo-Wang.github.io/files/posters/ICLR_2024_Poster.pdf)
+    - Presented at ICLR 2024
+
 * **A Finite Sample Complexity Bound for the Distributionally Robust Q-learning**
     - Poster: [AISTATS 23 DRQL]( http://Shengbo-Wang.github.io/files/posters/AISTATS_2023_Poster.pdf)
     - Presented at AISTATS 2023
