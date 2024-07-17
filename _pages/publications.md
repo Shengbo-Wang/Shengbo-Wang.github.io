@@ -21,6 +21,9 @@ author_profile: true
 
 
 # Preprints
+* [**An Efficient High-dimensional Gradient Estimator for Stochastic Differential Equations**](https://arxiv.org/abs/2407.10065)
+  - Shengbo Wang, Jose Blanchet, Peter Glynn. 
+
 * [**Statistical Learning of Distributionally Robust Stochastic Control in Continuous State Spaces**](https://arxiv.org/abs/2406.11281) 
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
 
@@ -34,10 +37,6 @@ author_profile: true
 * [**Sample Complexity of Variance-reduced Distributionally Robust Q-learning**](https://arxiv.org/abs/2305.18420)
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
   - Under revision.
-
-* **An Efficient High-dimensional Gradient Estimator for Stochastic Differential Equations**
-  - Shengbo Wang, Jose Blanchet, Peter Glynn. 
-  - Working Paper. 
 
 * **Exact Exponential Tail Asymptotics of Markov Chain Additive Functionals Stopped at a Hitting Time**
   - Shengbo Wang, Jose Blanchet, Peter Glynn. 
