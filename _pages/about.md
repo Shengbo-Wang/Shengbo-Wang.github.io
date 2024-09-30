@@ -11,7 +11,7 @@ I am currently a fifth-year Ph.D. candidate in Operations Research within the De
 
 # Research Interests
 I am interested in a wide range of research areas within applied probability, stochastic modeling, and simulation. My work focuses on the design and analysis of algorithms tailored for the learning and control of dynamic engineering systems, with applications in management science and operations research, addressing the reliability and scalability challenges that emerge from contemporary problems. Key areas of my research include:
-* Designing and implementing sample-efficient estimators capable of learning key system characteristics. 
-* Establishing optimal sample complexities for the reinfocement learning (RL) and control of mixing Markov systems.
-* Developing statistically tractable, data-driven modeling paradigms for robust dynamic policy learning and RL, leveraging distributionally robust optimization.
-* Advancing deep learning techniques in policy learning through the development of computationally efficient estimation procedures using applied probabilistic tools.
+* Design, analyze, and implement sample-efficient estimators capable of learning key system characteristics. 
+* Establish algorithms and optimal sample complexities for the reinfocement learning (RL) and control of mixing Markov systems.
+* Develop statistically tractable, data-driven modeling paradigms and algorithms for robust dynamic policy learning and RL, leveraging distributionally robust optimization.
+* Advance deep learning techniques in policy learning through the development of computationally efficient estimation procedures using applied probabilistic tools.
