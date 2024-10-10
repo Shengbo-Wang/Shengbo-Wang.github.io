@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-# upcomming Talk
+# Upcoming Talk
 * **Statistical Learning of Distributionally Robust Stochastic Control in Continuous State Spaces**
     - INFORMS 2024
     - Time: 3:09 - 3:27 PM, Monday, October 21
