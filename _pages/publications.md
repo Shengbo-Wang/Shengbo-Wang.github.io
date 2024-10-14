@@ -10,18 +10,24 @@ author_profile: true
 {% endif %}
 
 
+# Journal Papers
+* [**Sample Complexity of Variance-reduced Distributionally Robust Q-learning**](https://arxiv.org/abs/2305.18420)
+  - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
+  - Accepted by *Journal of Machine Learning Research*. 
+
+
 # Conference Papers
 * [**An Efficient High-dimensional Gradient Estimator for Stochastic Differential Equations**](https://arxiv.org/abs/2407.10065)
   - Shengbo Wang, Jose Blanchet, Peter Glynn. 
-  - Neural Information Processing Systems (NeurIPS) 2024. 
+  - Accepted by *Neural Information Processing Systems (NeurIPS) 2024*. 
 
 * [**Optimal Sample Complexity for Average Reward Markov Decision Processes**](https://arxiv.org/abs/2310.08833)
   - Shengbo Wang, Jose Blanchet, Peter Glynn.
-  - International Conference on Learning Representations (ICLR) 2024.
+  - *International Conference on Learning Representations (ICLR) 2024*.
 
 * [**A Finite Sample Complexity Bound for Distributionally Robust Q-learning**](https://arxiv.org/abs/2302.13203)
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou.
-  - Artificial Intelligence and Statistics Conference (AISTATS) 2023.
+  - *Artificial Intelligence and Statistics Conference (AISTATS) 2023*.
 
 
 # Preprints
@@ -36,10 +42,6 @@ author_profile: true
 * [**Optimal Sample Complexity of Reinforcement Learning for Mixing Discounted Markov Decision Processes**](https://arxiv.org/abs/2302.07477)
   - Shengbo Wang, Jose Blanchet, Peter Glynn.
   - Submitted. 
-
-* [**Sample Complexity of Variance-reduced Distributionally Robust Q-learning**](https://arxiv.org/abs/2305.18420)
-  - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
-  - Under revision.
 
 * **Exact Exponential Tail Asymptotics of Markov Chain Additive Functionals Stopped at a Hitting Time**
   - Shengbo Wang, Jose Blanchet, Peter Glynn. 
