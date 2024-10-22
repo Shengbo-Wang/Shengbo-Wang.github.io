@@ -5,13 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Upcoming Talk
+# Talks
 * **Statistical Learning of Distributionally Robust Stochastic Control in Continuous State Spaces**
     - Slides: [INFORMS 2024](http://Shengbo-Wang.github.io/files/slides/INFORMS24.pdf)
-    - Time: 3:09 - 3:27 PM, Monday, October 21
-    - Location: Summit - 424
+    - Presented at INFORMS 2024. 
 
-# Talks
 * **On the Foundation of Distributionally Robust Reinforcement Learning (Long version)**
     - Slides: [Stanford and Berkeley talks](http://Shengbo-Wang.github.io/files/slides/Formulation_Stanford_Berkeley.pdf)
     - Presented at Stanford and Berkeley seminars 4/2024.
