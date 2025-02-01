@@ -11,12 +11,17 @@ author_profile: true
 
 
 # Journal Papers
-* [**Sample Complexity of Variance-reduced Distributionally Robust Q-learning**](https://arxiv.org/abs/2305.18420)
+* [**Sample Complexity of Variance-reduced Distributionally Robust Q-learning**](https://www.jmlr.org/papers/volume25/23-0526/23-0526.pdf)
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
-  - Accepted by *Journal of Machine Learning Research*. 
+  - *Journal of Machine Learning Research, 2024*. 
 
 
 # Conference Papers
+* [**Statistical Learning of Distributionally Robust Stochastic Control in Continuous State Spaces**](https://arxiv.org/abs/2406.11281) 
+  - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
+  - Accepted by *Artificial Intelligence and Statistics Conference (AISTATS) 2025*.
+  - Oral presentation (top 2% of all submissions). 
+
 * [**An Efficient High-dimensional Gradient Estimator for Stochastic Differential Equations**](https://arxiv.org/abs/2407.10065)
   - Shengbo Wang, Jose Blanchet, Peter Glynn. 
   - Accepted by *Neural Information Processing Systems (NeurIPS) 2024*. 
@@ -31,17 +36,14 @@ author_profile: true
 
 
 # Preprints
-* [**Statistical Learning of Distributionally Robust Stochastic Control in Continuous State Spaces**](https://arxiv.org/abs/2406.11281) 
-  - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
-  - Submitted. 
+* [**Tractable Robust Markov Decision Processes**](https://arxiv.org/abs/2411.08435) 
+  - Julien Grand-Clément, Nian Si, Shengbo Wang.  
 
 * [**On the Foundation of Distributionally Robust Reinforcement Learning**](https://arxiv.org/abs/2311.09018) 
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
-  - Under revision.
 
 * [**Optimal Sample Complexity of Reinforcement Learning for Mixing Discounted Markov Decision Processes**](https://arxiv.org/abs/2302.07477)
   - Shengbo Wang, Jose Blanchet, Peter Glynn.
-  - Submitted. 
 
 * **Exact Exponential Tail Asymptotics of Markov Chain Additive Functionals Stopped at a Hitting Time**
   - Shengbo Wang, Jose Blanchet, Peter Glynn. 
