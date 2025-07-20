@@ -19,12 +19,12 @@ author_profile: true
 # Conference Papers
 * [**Statistical Learning of Distributionally Robust Stochastic Control in Continuous State Spaces**](https://arxiv.org/abs/2406.11281) 
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
-  - Accepted by *Artificial Intelligence and Statistics Conference (AISTATS) 2025*.
+  - *Artificial Intelligence and Statistics Conference (AISTATS) 2025*.
   - Oral presentation (top 2% of all submissions). 
 
 * [**An Efficient High-dimensional Gradient Estimator for Stochastic Differential Equations**](https://arxiv.org/abs/2407.10065)
   - Shengbo Wang, Jose Blanchet, Peter Glynn. 
-  - Accepted by *Neural Information Processing Systems (NeurIPS) 2024*. 
+  - *Neural Information Processing Systems (NeurIPS) 2024*. 
 
 * [**Optimal Sample Complexity for Average Reward Markov Decision Processes**](https://arxiv.org/abs/2310.08833)
   - Shengbo Wang, Jose Blanchet, Peter Glynn.
@@ -44,6 +44,12 @@ author_profile: true
 
 * [**Optimal Sample Complexity of Reinforcement Learning for Mixing Discounted Markov Decision Processes**](https://arxiv.org/abs/2302.07477)
   - Shengbo Wang, Jose Blanchet, Peter Glynn.
+
+* [**Sample Complexity of Distributionally Robust Average-Reward Reinforcement Learning**](https://arxiv.org/abs/2505.10007)
+  - Zijun Chen, Shengbo Wang, Nian Si
+
+* [**Near-Optimal Sample Complexities of Divergence-based S-rectangular Distributionally Robust Reinforcement Learning**](https://arxiv.org/abs/2505.12202)
+  - Zhenghao Li, Shengbo Wang, Nian Si
 
 * **Exact Exponential Tail Asymptotics of Markov Chain Additive Functionals Stopped at a Hitting Time**
   - Shengbo Wang, Jose Blanchet, Peter Glynn. 
