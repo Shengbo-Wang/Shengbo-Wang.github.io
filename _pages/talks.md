@@ -7,7 +7,7 @@ author_profile: true
 
 # Talks
 * **Statistical Learning of Distributionally Robust Stochastic Control in Continuous State Spaces**
-    - Slides: [INFORMS 2024](http://Shengbo-Wang.github.io/files/slides/iccopt_2025.pdf) [ICCOPT 2025](http://Shengbo-Wang.github.io/files/slides/iccopt_2025.pdf) 
+    - Slides: [INFORMS 2024](http://Shengbo-Wang.github.io/files/slides/iccopt_2025.pdf) and [ICCOPT 2025](http://Shengbo-Wang.github.io/files/slides/iccopt_2025.pdf) 
     - Presented at INFORMS 2024 and ICCOPT 2025. 
 
 * **On the Foundation of Distributionally Robust Reinforcement Learning (Long version)**
