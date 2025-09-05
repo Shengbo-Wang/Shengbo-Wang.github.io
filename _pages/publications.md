@@ -39,7 +39,7 @@ author_profile: true
 * [**Tractable Robust Markov Decision Processes**](https://arxiv.org/abs/2411.08435) 
   - Julien Grand-Clément, Nian Si, Shengbo Wang.  
 
-* [**On the Foundation of Distributionally Robust Reinforcement Learning**](https://arxiv.org/abs/2311.09018) 
+* [**On the Foundation of Distributionally Robust Reinforcement Learning**](https://arxiv.org/abs/2311.09018v4) 
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
 
 * [**Optimal Sample Complexity of Reinforcement Learning for Mixing Discounted Markov Decision Processes**](https://arxiv.org/abs/2302.07477)
