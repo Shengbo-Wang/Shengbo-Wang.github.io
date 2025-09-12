@@ -11,7 +11,7 @@ I am an Assistant Professor in the [Daniel J. Epstein Department of Industrial a
 
 
 # Research Interests
-I am interested in a wide range of research areas within applied probability, stochastic modeling, and simulation. My work focuses on the design and analysis of algorithms for learning and controlling dynamic engineering systems, with applications in management science and operations research. In particular, I address the reliability and scalability challenges that arise in contemporary problems. Key areas of my research include:
+I am interested in a wide range of research areas within applied probability, machine learning, and simulation. My work focuses on the design and analysis of algorithms for learning and controlling dynamic engineering systems, with applications in management science and operations research. In particular, I address the reliability and scalability challenges that arise in contemporary problems. Key areas of my research include:
 
 * Designing, analyzing, and implementing sample-efficient estimators capable of learning key system characteristics.  
 * Achieving reinforcement learning (RL) and control of stable stochastic systems.  
