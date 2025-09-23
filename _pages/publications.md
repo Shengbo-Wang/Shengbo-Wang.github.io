@@ -17,6 +17,10 @@ author_profile: true
 
 
 # Conference Papers
+* [**Sample Complexity of Distributionally Robust Average-Reward Reinforcement Learning**](https://arxiv.org/abs/2505.10007)
+  - Zijun Chen, Shengbo Wang, Nian Si
+  - *Neural Information Processing Systems (NeurIPS) 2025*. 
+
 * [**Statistical Learning of Distributionally Robust Stochastic Control in Continuous State Spaces**](https://arxiv.org/abs/2406.11281) 
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
   - *Artificial Intelligence and Statistics Conference (AISTATS) 2025*.
@@ -36,6 +40,9 @@ author_profile: true
 
 
 # Preprints
+* [**Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain**](https://arxiv.org/abs/2509.14203)
+  - Shengbo Wang, Nian Si
+
 * [**Tractable Robust Markov Decision Processes**](https://arxiv.org/abs/2411.08435) 
   - Julien Grand-Clément, Nian Si, Shengbo Wang.  
 
@@ -44,9 +51,6 @@ author_profile: true
 
 * [**Optimal Sample Complexity of Reinforcement Learning for Mixing Discounted Markov Decision Processes**](https://arxiv.org/abs/2302.07477)
   - Shengbo Wang, Jose Blanchet, Peter Glynn.
-
-* [**Sample Complexity of Distributionally Robust Average-Reward Reinforcement Learning**](https://arxiv.org/abs/2505.10007)
-  - Zijun Chen, Shengbo Wang, Nian Si
 
 * [**Near-Optimal Sample Complexities of Divergence-based S-rectangular Distributionally Robust Reinforcement Learning**](https://arxiv.org/abs/2505.12202)
   - Zhenghao Li, Shengbo Wang, Nian Si
