@@ -28,6 +28,7 @@ author_profile: true
 
 * [**An Efficient High-dimensional Gradient Estimator for Stochastic Differential Equations**](https://arxiv.org/abs/2407.10065)
   - Shengbo Wang, Jose Blanchet, Peter Glynn. 
+  - APS Best Student Paper Award 2025. 
   - *Neural Information Processing Systems (NeurIPS) 2024*. 
 
 * [**Optimal Sample Complexity for Average Reward Markov Decision Processes**](https://arxiv.org/abs/2310.08833)

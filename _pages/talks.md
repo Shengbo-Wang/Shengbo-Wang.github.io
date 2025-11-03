@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 # Talks
+* **Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain**
+    - Slides: [APS Bset Student Paper](http://Shengbo-Wang.github.io/files/slides/SDE_Gradient_15min.pptx)
+    - Presentation for the 2025 APS Bset Student Paper competetion at INFORMS 2025. 
+
+* **Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain**
+    - Slides: [INFORMS 2025](http://Shengbo-Wang.github.io/files/slides/DP_ARMDP_15min.pptx)
+    - Presented at INFORMS 2025. 
+
 * **Statistical Learning of Distributionally Robust Stochastic Control in Continuous State Spaces**
     - Slides: [INFORMS 2024](http://Shengbo-Wang.github.io/files/slides/iccopt_2025.pdf) and [ICCOPT 2025](http://Shengbo-Wang.github.io/files/slides/iccopt_2025.pdf) 
     - Presented at INFORMS 2024 and ICCOPT 2025. 

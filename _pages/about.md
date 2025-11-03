@@ -18,3 +18,10 @@ I am interested in a wide range of research areas within applied probability, ma
 * Developing statistically tractable data-driven models and algorithms for robust dynamic policy learning and RL. 
 * Establishing theoretical foundations for robust Markov decision processes. 
 * Advancing deep learning techniques for policy learning by leveraging simulation methodologies and applied probabilistic tools.  
+
+## Research Highlights
+We are pleased to present our latest findings on the dynamic programming theory for average-reward robust Markov decision processes in the following new manuscript. 
+* [**Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain**](https://arxiv.org/abs/2509.14203)
+  - Shengbo Wang, Nian Si
+  - Some [slides for this work](http://Shengbo-Wang.github.io/files/slides/DP_ARMDP_15min.pptx).
+
