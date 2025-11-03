@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Talks
-* **Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain**
+* **Efficient Gradient Estimation for Overparameterized Stochastic Differential Equations**
     - Slides: [APS Bset Student Paper](http://Shengbo-Wang.github.io/files/slides/SDE_Gradient_15min.pptx)
     - Presentation for the 2025 APS Bset Student Paper competetion at INFORMS 2025. 
 
