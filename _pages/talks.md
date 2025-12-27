@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+Slides and posters from my talks and presentations are listed below.
+
 # Talks
 
 * **Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain**

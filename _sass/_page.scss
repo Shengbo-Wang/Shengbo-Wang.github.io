@@ -57,13 +57,9 @@
     font-size: 1em;
   }
 
-  p + ul, p + ol {
-    margin-top: 0.1em; // reduce gap between paragraph and list
-  }
-
   /* paragraph indents */
   p {
-    margin: 0 0 $indent-var;
+    margin: 0 0 0.6em;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
@@ -72,6 +68,16 @@
         margin-top: -($indent-var);
       }
     }
+  }
+
+  p:has(+ ul),
+  p:has(+ ol) {
+    margin-bottom: 0.2em;
+  }
+
+  p + ul,
+  p + ol {
+    margin-top: 0.2em;
   }
 
   a {
@@ -84,10 +90,6 @@
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
     }
-  }
-
-  ul, ol {
-    margin: 0.1em 0.2em;
   }
 
   dt {
