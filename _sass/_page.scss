@@ -70,14 +70,19 @@
     }
   }
 
-  p:has(+ ul),
-  p:has(+ ol) {
-    margin-bottom: 0.2em;
-  }
-
   p + ul,
   p + ol {
     margin-top: 0.2em;
+  }
+
+  ul,
+  ol {
+    margin: 0.2em 0 0.5em;
+  }
+
+  ul li,
+  ol li {
+    margin-bottom: 0.15em;
   }
 
   a {
