@@ -4,6 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+I am teaching the following courses at USC: 
+* ISE 220: Foundations of Probability Modeling
+
 I have been a course assistant for the following courses at Stanford:
 * MS&E 221: Stochastic Modeling
 * MS&E 220: Probabilistic Analysis
