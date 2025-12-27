@@ -57,6 +57,10 @@
     font-size: 1em;
   }
 
+  p + ul, p + ol {
+    margin-top: 0.1em; // reduce gap between paragraph and list
+  }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
