@@ -37,10 +37,13 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  font-size: $type-size-2;
 
   & + .page__meta {
     margin-top: -0.5em;
   }
+
+  
 }
 
 .page__lead {
@@ -77,6 +80,10 @@
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
     }
+  }
+
+  ul, ol {
+    margin: 0.1em 0.2em;
   }
 
   dt {
