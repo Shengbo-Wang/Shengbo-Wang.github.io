@@ -15,6 +15,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 # Conference Papers
+* [**Near-Optimal Sample Complexities of Divergence-based S-rectangular Distributionally Robust Reinforcement Learning**](https://arxiv.org/abs/2505.12202)
+  - Zhenghao Li, Shengbo Wang, Nian Si- 
+  - *Artificial Intelligence and Statistics Conference (AISTATS) 2026*.
+  - Spotlight presentation (top 2.5% of all submissions). 
+ 
 * [**Sample Complexity of Distributionally Robust Average-Reward Reinforcement Learning**](https://arxiv.org/abs/2505.10007)
   - Zijun Chen, Shengbo Wang, Nian Si
   - *Neural Information Processing Systems (NeurIPS) 2025*. 
@@ -39,6 +44,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 # Preprints
+* [**Achieving $\varepsilon^{-2}$ Dependence for Average-Reward Q-Learning with a New Contraction Principle**](https://arxiv.org/abs/2601.21301)
+  - Zijun Chen, Zaiwei Chen, Nian Si, Shengbo Wang
+
 * [**Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain**](https://arxiv.org/abs/2509.14203)
   - Shengbo Wang, Nian Si
 
@@ -50,9 +58,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * [**Optimal Sample Complexity of Reinforcement Learning for Mixing Discounted Markov Decision Processes**](https://arxiv.org/abs/2302.07477)
   - Shengbo Wang, Jose Blanchet, Peter Glynn.
-
-* [**Near-Optimal Sample Complexities of Divergence-based S-rectangular Distributionally Robust Reinforcement Learning**](https://arxiv.org/abs/2505.12202)
-  - Zhenghao Li, Shengbo Wang, Nian Si
 
 * **Exact Exponential Tail Asymptotics of Markov Chain Additive Functionals Stopped at a Hitting Time**
   - Shengbo Wang, Jose Blanchet, Peter Glynn. 
