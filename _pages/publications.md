@@ -44,6 +44,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 # Preprints
+
+* [**Q-Measure-Learning for Continuous State RL: Efficient Implementation and Convergence**](https://arxiv.org/abs/2603.03523)
+  - Shengbo Wang
+
+* [**Non-Rectangular Average-Reward Robust MDPs: Optimal Policies and Their Transient Values**](https://arxiv.org/abs/2603.00945)
+  - Shengbo Wang, Nian Si
+
 * [**Achieving $\varepsilon^{-2}$ Dependence for Average-Reward Q-Learning with a New Contraction Principle**](https://arxiv.org/abs/2601.21301)
   - Zijun Chen, Zaiwei Chen, Nian Si, Shengbo Wang
 
