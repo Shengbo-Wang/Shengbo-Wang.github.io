@@ -9,6 +9,11 @@ Slides and posters from my talks and presentations are listed below.
 
 # Talks
 
+* **Q-Measure-Learning for Continuous State RL: Efficient Implementation and Convergence**
+    - Slides: [IOS 2026](http://Shengbo-Wang.github.io/files/slides/Q_Measure_Learning_IOS.pptx)
+    - Presented at INFORMS IOS Conference 2026. 
+
+
 * **Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain**
     - Slides: [INFORMS 2025](http://Shengbo-Wang.github.io/files/slides/DP_ARMDP_15min.pptx)
     - Presented at INFORMS 2025 and INI workshop Bridging Stochastic Control and Reinforcement Learning 2025. 
