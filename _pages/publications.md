@@ -44,6 +44,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 # Preprints
+* [**Fast Convergence of Policy Regret in Learning Stochastic Optimal Control**](https://arxiv.org/abs/2605.26361)
+  - Shengbo Wang, Jose Blanchet, Peter Glynn
 
 * [**Q-Measure-Learning for Continuous State RL: Efficient Implementation and Convergence**](https://arxiv.org/abs/2603.03523)
   - Shengbo Wang
@@ -65,7 +67,3 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * [**Optimal Sample Complexity of Reinforcement Learning for Mixing Discounted Markov Decision Processes**](https://arxiv.org/abs/2302.07477)
   - Shengbo Wang, Jose Blanchet, Peter Glynn.
-
-* **Exact Exponential Tail Asymptotics of Markov Chain Additive Functionals Stopped at a Hitting Time**
-  - Shengbo Wang, Jose Blanchet, Peter Glynn. 
-  - Working Paper.
