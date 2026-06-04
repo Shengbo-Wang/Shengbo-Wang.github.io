@@ -11,13 +11,14 @@ I am an Assistant Professor in the [Daniel J. Epstein Department of Industrial a
 
 
 # Research Interests
-I am interested in a wide range of research areas within applied probability, machine learning, and simulation. My work focuses on the design and analysis of algorithms for learning and controlling dynamic engineering systems, with applications in management science and operations research. In particular, I address the reliability and scalability challenges that arise in contemporary problems. Key areas of my research include:
 
-* Designing, analyzing, and implementing sample-efficient estimators capable of learning key system characteristics.  
-* Achieving reinforcement learning (RL) and control of stable stochastic systems.  
-* Developing statistically tractable data-driven models and algorithms for robust dynamic policy learning and RL. 
-* Establishing theoretical foundations for robust Markov decision processes. 
-* Advancing deep learning techniques for policy learning by leveraging simulation methodologies and applied probabilistic tools.  
+I am interested in a wide range of research areas at the intersection of applied probability, reinforcement learning (RL), machine learning, and simulation. My work focuses on the foundation, design, and analysis of algorithms for learning and controlling dynamic engineering systems, with applications in management science and operations research. In particular, I address the reliability and scalability challenges that arise in contemporary problems. Key areas of my research include:
+
+
+* Developing efficient RL and approximate dynamic programming algorithms for policy learning and optimization with provable performance guarantees. 
+* Establishing theoretical foundations for robust Markov decision processes and distributionally robust stochastic control.
+* Building statistically tractable data-driven models and efficient algorithms for reliable RL.
+* Advancing deep learning techniques for policy learning by leveraging simulation methodologies and applied probabilistic tools. 
 
 ## Research Highlights
 
