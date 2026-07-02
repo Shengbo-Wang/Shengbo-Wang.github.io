@@ -44,6 +44,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 # Preprints
+* [**Lipschitz Regularity in Wasserstein Robust Stochastic Optimal Control**](https://arxiv.org/abs/2606.28633)
+  - Shengbo Wang, Jose Blanchet
+
 * [**Fast Convergence of Policy Regret in Learning Stochastic Optimal Control**](https://arxiv.org/abs/2605.26361)
   - Shengbo Wang, Jose Blanchet, Peter Glynn
 
