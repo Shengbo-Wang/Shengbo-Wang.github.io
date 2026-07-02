@@ -50,6 +50,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * [**Fast Convergence of Policy Regret in Learning Stochastic Optimal Control**](https://arxiv.org/abs/2605.26361)
   - Shengbo Wang, Jose Blanchet, Peter Glynn
 
+* [**Central Limit Theorem for Two-Time-Scale Approximate Distributionally Robust RL**](https://arxiv.org/abs/2605.08417)
+  - Shengbo Wang, Zexi Zhang
+
 * [**Q-Measure-Learning for Continuous State RL: Efficient Implementation and Convergence**](https://arxiv.org/abs/2603.03523)
   - Shengbo Wang
 
