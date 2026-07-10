@@ -8,10 +8,11 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-    children:
-      - title: "Overview"
-        url: /teaching/
-      - title: "USC"
     
   - title: "CV"
     url: /cv/
+  
+  - title: "Paper Demos"
+    children:
+      - title: "Q-Measure-Learning"
+        url: /research_demos/q-measure-learning/

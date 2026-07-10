@@ -25,6 +25,7 @@ I am interested in a wide range of research areas at the intersection of applied
 I am excited to share my recent work on Q-Measure-Learning, a novel and efficiently implementable algorithm for continuous-state RL.
 * [**Q-Measure-Learning for Continuous State RL: Efficient Implementation and Convergence**](https://arxiv.org/abs/2603.03523)
   - Shengbo Wang
+  - A short demo of this work is [here](http://Shengbo-Wang.github.io/research_demos/q-measure-learning/).
   - Some [slides for this work](http://Shengbo-Wang.github.io/files/slides/Q_Measure_Learning_IOS.pptx)
 
 We are pleased to present our latest findings on the dynamic programming theory for average-reward robust Markov decision processes in the following new manuscript. 

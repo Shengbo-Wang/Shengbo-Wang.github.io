@@ -55,6 +55,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * [**Q-Measure-Learning for Continuous State RL: Efficient Implementation and Convergence**](https://arxiv.org/abs/2603.03523)
   - Shengbo Wang
+  - A short demo of this work is [here](http://Shengbo-Wang.github.io/research_demo/q-measure-learning/).
 
 * [**Non-Rectangular Average-Reward Robust MDPs: Optimal Policies and Their Transient Values**](https://arxiv.org/abs/2603.00945)
   - Shengbo Wang, Nian Si
