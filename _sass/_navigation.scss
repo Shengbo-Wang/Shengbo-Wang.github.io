@@ -430,3 +430,80 @@
     }
   }
 }
+
+/*
+   Masthead submenus
+   ========================================================================== */
+
+.nav-dropdown {
+  position: relative;
+
+  > summary {
+    display: block;
+    margin: 0 1rem;
+    padding: 0.5rem 0;
+    color: $masthead-link-color;
+    cursor: pointer;
+    list-style: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &:after {
+      content: " \25BE";
+      font-size: 0.75em;
+    }
+
+    &:hover {
+      color: $masthead-link-color-hover;
+    }
+  }
+
+  > .nav-submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 30;
+    min-width: 12rem;
+    margin: 0;
+    padding: 0.35rem 0;
+    background: $background-color;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    box-shadow: 0 4px 12px rgba(#000, 0.15);
+
+    li {
+      display: block;
+    }
+
+    a {
+      margin: 0;
+      padding: 0.55rem 1rem;
+
+      &:before {
+        display: none;
+      }
+
+      &:hover {
+        background: mix(#fff, $primary-color, 75%);
+      }
+    }
+  }
+
+  &[open] > .nav-submenu,
+  &:focus-within > .nav-submenu,
+  &:hover > .nav-submenu {
+    display: block;
+  }
+}
+
+/* The greedy navigation moves overflowed items into its compact menu. */
+.greedy-nav .hidden-links .nav-dropdown > .nav-submenu {
+  position: static;
+  min-width: 0;
+  padding-left: 0.75rem;
+  border: 0;
+  box-shadow: none;
+}
