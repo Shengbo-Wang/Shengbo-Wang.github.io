@@ -44,6 +44,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 # Preprints
+* [**Q-Learning with Stable Infinite-Dimensional Linear Function Approximation**](https://arxiv.org/abs/2608.22636)
+  - Shengbo Wang
+
 * [**Lipschitz Regularity in Wasserstein Robust Stochastic Optimal Control**](https://arxiv.org/abs/2606.28633)
   - Shengbo Wang, Jose Blanchet
 
