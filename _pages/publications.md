@@ -9,6 +9,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 # Journal Papers
+* [**Dynamic Programming–Compatible Uncertainty Sets in Robust Markov Decision Processes**](https://arxiv.org/abs/2411.08435) 
+  - Julien Grand-Clément, Nian Si, Shengbo Wang.  
+  - Accepted by *Mathematics of Operations Research*
+
+
 * [**Sample Complexity of Variance-reduced Distributionally Robust Q-learning**](https://www.jmlr.org/papers/volume25/23-0526/23-0526.pdf)
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
   - *Journal of Machine Learning Research, 2024*. 
@@ -68,9 +73,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * [**Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain**](https://arxiv.org/abs/2509.14203)
   - Shengbo Wang, Nian Si
-
-* [**Tractable Robust Markov Decision Processes**](https://arxiv.org/abs/2411.08435) 
-  - Julien Grand-Clément, Nian Si, Shengbo Wang.  
 
 * [**On the Foundation of Distributionally Robust Reinforcement Learning**](https://arxiv.org/abs/2311.09018v4) 
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
