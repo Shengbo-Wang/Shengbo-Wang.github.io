@@ -77,5 +77,5 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * [**On the Foundation of Distributionally Robust Reinforcement Learning**](https://arxiv.org/abs/2311.09018v4) 
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
 
-* [**Optimal Sample Complexity of Reinforcement Learning for Mixing Discounted Markov Decision Processes**](https://arxiv.org/abs/2302.07477)
+* [**Optimal Sample Complexity of Stable Discounted Markov Decision Processes**](https://arxiv.org/abs/2302.07477)
   - Shengbo Wang, Jose Blanchet, Peter Glynn.
