@@ -9,6 +9,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 # Journal Papers
+
+* [**Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain**](https://arxiv.org/abs/2509.14203)
+  - Shengbo Wang, Nian Si
+  - Accepted by *Operations Research*
+
+
 * [**Dynamic Programming–Compatible Uncertainty Sets in Robust Markov Decision Processes**](https://arxiv.org/abs/2411.08435) 
   - Julien Grand-Clément, Nian Si, Shengbo Wang.  
   - Accepted by *Mathematics of Operations Research*
@@ -70,9 +76,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * [**Achieving $\varepsilon^{-2}$ Dependence for Average-Reward Q-Learning with a New Contraction Principle**](https://arxiv.org/abs/2601.21301)
   - Zijun Chen, Zaiwei Chen, Nian Si, Shengbo Wang
-
-* [**Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain**](https://arxiv.org/abs/2509.14203)
-  - Shengbo Wang, Nian Si
 
 * [**On the Foundation of Distributionally Robust Reinforcement Learning**](https://arxiv.org/abs/2311.09018v4) 
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
