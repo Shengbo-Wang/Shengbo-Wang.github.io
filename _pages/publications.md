@@ -17,43 +17,43 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 * [**Dynamic Programming–Compatible Uncertainty Sets in Robust Markov Decision Processes**](https://pubsonline.informs.org/doi/abs/10.1287/moor.2024.0760) 
-  - Julien Grand-Clément, Nian Si, Shengbo Wang  
+  - Julien Grand-Clément, Nian Si, Shengbo Wang
   - *Mathematics of Operations Research 2026*
   - [Arxiv version](https://arxiv.org/abs/2411.08435).
 
 
 * [**Sample Complexity of Variance-reduced Distributionally Robust Q-learning**](https://www.jmlr.org/papers/volume25/23-0526/23-0526.pdf)
-  - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
-  - *Journal of Machine Learning Research, 2024*. 
+  - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou
+  - *Journal of Machine Learning Research, 2024*
 
 
 # Conference Papers
 * [**Near-Optimal Sample Complexities of Divergence-based S-rectangular Distributionally Robust Reinforcement Learning**](https://arxiv.org/abs/2505.12202)
   - Zhenghao Li, Shengbo Wang, Nian Si 
-  - *Artificial Intelligence and Statistics Conference (AISTATS) 2026*.
-  - Spotlight presentation (top 2.5% of all submissions). 
+  - *Artificial Intelligence and Statistics Conference (AISTATS) 2026*
+  - Spotlight presentation (top 2.5% of all submissions)
  
 * [**Sample Complexity of Distributionally Robust Average-Reward Reinforcement Learning**](https://arxiv.org/abs/2505.10007)
   - Zijun Chen, Shengbo Wang, Nian Si
-  - *Neural Information Processing Systems (NeurIPS) 2025*. 
+  - *Neural Information Processing Systems (NeurIPS) 2025*
 
 * [**Statistical Learning of Distributionally Robust Stochastic Control in Continuous State Spaces**](https://arxiv.org/abs/2406.11281) 
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
-  - *Artificial Intelligence and Statistics Conference (AISTATS) 2025*.
+  - *Artificial Intelligence and Statistics Conference (AISTATS) 2025*
   - Oral presentation (top 2% of all submissions). 
 
 * [**An Efficient High-dimensional Gradient Estimator for Stochastic Differential Equations**](https://arxiv.org/abs/2407.10065)
   - Shengbo Wang, Jose Blanchet, Peter Glynn. 
   - APS Best Student Paper Award 2025. 
-  - *Neural Information Processing Systems (NeurIPS) 2024*. 
+  - *Neural Information Processing Systems (NeurIPS) 2024*
 
 * [**Optimal Sample Complexity for Average Reward Markov Decision Processes**](https://arxiv.org/abs/2310.08833)
   - Shengbo Wang, Jose Blanchet, Peter Glynn.
-  - *International Conference on Learning Representations (ICLR) 2024*.
+  - *International Conference on Learning Representations (ICLR) 2024*
 
 * [**A Finite Sample Complexity Bound for Distributionally Robust Q-learning**](https://arxiv.org/abs/2302.13203)
   - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou.
-  - *Artificial Intelligence and Statistics Conference (AISTATS) 2023*.
+  - *Artificial Intelligence and Statistics Conference (AISTATS) 2023*
 
 
 # Preprints
@@ -74,7 +74,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * [**Q-Measure-Learning for Continuous State RL: Efficient Implementation and Convergence**](https://arxiv.org/abs/2603.03523)
   - Shengbo Wang
-  - A short demo of this work is [here](http://Shengbo-Wang.github.io/research_demo/q-measure-learning/).
+  - A short demo of this work is [here](http://Shengbo-Wang.github.io/research_demo/q-measure-learning/)
 
 * [**Non-Rectangular Average-Reward Robust MDPs: Optimal Policies and Their Transient Values**](https://arxiv.org/abs/2603.00945)
   - Shengbo Wang, Nian Si
@@ -83,7 +83,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   - Zijun Chen, Zaiwei Chen, Nian Si, Shengbo Wang
 
 * [**On the Foundation of Distributionally Robust Reinforcement Learning**](https://arxiv.org/abs/2311.09018v4) 
-  - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou. 
+  - Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou
 
 * [**Optimal Sample Complexity of Stable Discounted Markov Decision Processes**](https://arxiv.org/abs/2302.07477)
-  - Shengbo Wang, Jose Blanchet, Peter Glynn.
+  - Shengbo Wang, Jose Blanchet, Peter Glynn
