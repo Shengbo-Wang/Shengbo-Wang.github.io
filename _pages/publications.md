@@ -10,14 +10,16 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 # Journal Papers
 
-* [**Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain**](https://arxiv.org/abs/2509.14203)
+* [**Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain**](https://pubsonline.informs.org/doi/abs/10.1287/opre.2025.2498)
   - Shengbo Wang, Nian Si
-  - Accepted by *Operations Research*
+  - *Operations Research 2026*
+  - [Arxiv version](https://arxiv.org/abs/2509.14203)
 
 
-* [**Dynamic Programming–Compatible Uncertainty Sets in Robust Markov Decision Processes**](https://arxiv.org/abs/2411.08435) 
-  - Julien Grand-Clément, Nian Si, Shengbo Wang.  
-  - Accepted by *Mathematics of Operations Research*
+* [**Dynamic Programming–Compatible Uncertainty Sets in Robust Markov Decision Processes**](https://pubsonline.informs.org/doi/abs/10.1287/moor.2024.0760) 
+  - Julien Grand-Clément, Nian Si, Shengbo Wang  
+  - *Mathematics of Operations Research 2026*
+  - [Arxiv version](https://arxiv.org/abs/2411.08435).
 
 
 * [**Sample Complexity of Variance-reduced Distributionally Robust Q-learning**](https://www.jmlr.org/papers/volume25/23-0526/23-0526.pdf)
@@ -27,7 +29,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 # Conference Papers
 * [**Near-Optimal Sample Complexities of Divergence-based S-rectangular Distributionally Robust Reinforcement Learning**](https://arxiv.org/abs/2505.12202)
-  - Zhenghao Li, Shengbo Wang, Nian Si- 
+  - Zhenghao Li, Shengbo Wang, Nian Si 
   - *Artificial Intelligence and Statistics Conference (AISTATS) 2026*.
   - Spotlight presentation (top 2.5% of all submissions). 
  
