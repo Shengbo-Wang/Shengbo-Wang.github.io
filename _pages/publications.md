@@ -57,6 +57,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 # Preprints
+
+* [**Understanding the Asymptotic Transience of Q-Learning via Distributional Expansion**](https://arxiv.org/pdf/2611.14926)
+  - Shengbo Wang
+
 * [**Asymptotic Optimality of $c\mu$-Rule for LLM Inference Scheduling under Memory Constraint**](https://arxiv.org/abs/2611.04807)
   - Zhenghao Li, Shengbo Wang, Nian Si 
   
